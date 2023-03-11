@@ -66,7 +66,7 @@ A simple product quantization application for KNN algorithm. This application is
 ## Screenshots
 <p>
   <img src="/image/SS1.png/">
-  <p>Figure 1. Database Vector</p>
+  <p>Figure 1. Vector Database</p>
   <nl>
   <img src="/image/SS2.png/">
   <p>Figure 2. Project Process</p>
